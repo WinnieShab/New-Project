@@ -1,5 +1,5 @@
 #The task to monitor and report US domestic airline flights performance. 
-#Goal is to analyze the performance of the reporting airline to improve flight reliability thereby improving customer reliability using the dash application.
+#The goal is to analyze the performance of the reporting airline to improve flight reliability thereby improving customer reliability using the dash application.
 
 # Import required libraries
 import pandas as pd
